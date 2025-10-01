@@ -3,7 +3,6 @@
 
 ---
 
-- 🔭 I’m currently diving into **Laravel**
 - 💻 Mostly working with **Python, Django, DRF, Flask, and Selenium**
 - 🤝 I’m open to collaborating on backend projects and automation tools
 - 📬 Reach me on [Telegram](http://t.me/Agha_abolfasl) or via email: abolsarijloo2007@gmail.com
